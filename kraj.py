@@ -122,7 +122,7 @@ messages = [
     "Želio sam ostaviti dokaz da najveća otkrića ne nastaju radom jednog genija, već suradnjom ljudi koji traže rješenja.",
     "Marta je vjerovala da je pravo nasljeđe znanstvenika znanje koje prenese drugima.",
     "Budućnost znanosti sada je u vašim rukama.",
-    "I da... Lozinka za izlaz je: G E N I J"
+    "I da... Lozinka za izlaz je: G E N I J E"
 ]
 
 atom = r"""
